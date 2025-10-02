@@ -1,5 +1,5 @@
-# wpcloud-externals-example
-Example outline of WP Cloud externals.
+# wpcom-flex-wpcloud-externals
+WP Cloud external for WPCom Flex Sites
 
 #### General Structure
 
